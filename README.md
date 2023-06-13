@@ -1,4 +1,4 @@
-**Code to replicate the eye-tracking experimet in Tipura, Souto and Fox (2023).**
+**Code to replicate the eye-tracking experiment in Tipura, Souto and Fox (2023).**
 
 The code supports the use of Eyelink eye-trackers and Tobii Pro.
 
